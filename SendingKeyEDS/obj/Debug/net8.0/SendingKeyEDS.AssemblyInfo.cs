@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SendingKeyEDS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+204d614226046dee9a45677a2e5d10e77decf9c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SendingKeyEDS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SendingKeyEDS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

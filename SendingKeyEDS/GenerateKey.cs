@@ -93,10 +93,8 @@ namespace SendingKeyEDS
                 ulongArray[i] = BitConverter.ToUInt32(bytes, i * 4);
             }
 
-            var buffer = new byte[8];
-            rng.GetBytes(buffer);
 
-            Magma Cryper = new(ulongArray, BitConverter.ToUInt64(buffer, 0));
+            Magma Cryper = new(ulongArray, 0xff2753253654553f);
 
             Console.WriteLine(Help());
 

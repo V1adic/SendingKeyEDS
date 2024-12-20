@@ -12,3 +12,4 @@ D:\new_desctop\progect\SendingKeyEDS\SendingKeyEDS\obj\Debug\net8.0\refint\Sendi
 D:\new_desctop\progect\SendingKeyEDS\SendingKeyEDS\obj\Debug\net8.0\SendingKeyEDS.pdb
 D:\new_desctop\progect\SendingKeyEDS\SendingKeyEDS\obj\Debug\net8.0\SendingKeyEDS.genruntimeconfig.cache
 D:\new_desctop\progect\SendingKeyEDS\SendingKeyEDS\obj\Debug\net8.0\ref\SendingKeyEDS.dll
+D:\new_desctop\progect\SendingKeyEDS\SendingKeyEDS\obj\Debug\net8.0\SendingKeyEDS.sourcelink.json
